@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='Dem',
-      version='1.0',
+      version='1.1',
       url='https://github.com/flew-software/D',
       license='MIT',
       author='Tarith Jayasooriya',
