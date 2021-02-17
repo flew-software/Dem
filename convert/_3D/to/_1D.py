@@ -1,9 +1,5 @@
-from typing import List
-import _2D
-
-
-def RowMajor(l: list) -> tuple[list, int]:
-    """ converts a 2d list to a 1d list using row major algorythm and returns a 1d list and row count """
+def row_major(l: list) -> tuple[list, int]:
+    """ converts a 2d list to a 1d list using row major algorithm and returns a 1d list and row count """
 
     out = []
     i = 0
@@ -15,4 +11,4 @@ def RowMajor(l: list) -> tuple[list, int]:
             ii += 1
         i += 1
 
-    return (out, len(l))
+    return out, len(l)
