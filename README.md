@@ -1,6 +1,10 @@
 ![https://pypi.org/project/Dem](https://img.shields.io/pypi/v/dem.svg)
 ![https://pypi.org/project/Dem](https://pypip.in/license/blackhole/badge.svg)
 
+## Download
+
+`pip install Dem`
+
 ## What is Dem
 
 Dem is a python library to make using list more easy
