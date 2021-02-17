@@ -11,7 +11,7 @@ Dem is a python library to make using list more easy
 
 ## What dose it contain
 
-Dem currently contains utilities to work with 2D lists(GetRow, GetColoum, Replace, Find), convert 2d lists to 1d lists
+Dem currently contains utilities to work with 2D lists(get_row, get_column, replace, find), convert 2d lists to 1d lists
 
 ## example
 
